@@ -1,0 +1,19 @@
+{
+  "name": "Totoro1",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7meoBxTTcbN6kfijPGEzP1xfZknHwLt3m98qd7xxnD4J",
+        "share": 100
+      }
+    ]
+  }
+}
